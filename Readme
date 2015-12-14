@@ -1,0 +1,7 @@
+0. follow INSTALL file in Artemis repository
+1. After Artemis is installed, run 
+   
+	artemis <website> --major-mode concolic -i 40 --concolic-tree-output final
+   Websites we selected can be found in the Experimental Result.xlsx 
+
+2. after execute the above command, output message will be displayed in the terminal and a tree graph will be generated if the entry point is detected.  
