@@ -1,4 +1,4 @@
-0. follow INSTALL file in Artemis repository
+0. follow INSTALL file in Artemis repository, QT might need to be downloaded seperately through the internet.
 1. After Artemis is installed, run 
    
 	artemis <website> --major-mode concolic -i 40 --concolic-tree-output final
